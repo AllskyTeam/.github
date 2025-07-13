@@ -9,7 +9,7 @@ This GitHub site contains the source code for the Allsky Camera project describe
 This site includes several repositories:
 *  **allsky** - the main Allsky code that takes images, saves them, creates timelapse, startrails, etc.<br>**We suggest bookmarking [the main allsky page](https://github.com/AllskyTeam/allsky) since you will rarely use the other repositories.**
 *  **allsky-modules** - optional extra modules used by Allsky
-*  **allsky-website** - (Allsky version v2023.05.01_05 or earlier only)  the code needed for a local (i.e., on the Pi) or remote Allsky Website.
+*  **allsky-website** - NO LONGER USED as of Allsky version v2023.05.01.
 
 &nbsp;
 > See the [Allsky documentation](https://htmlpreview.github.io/?https://raw.githubusercontent.com/AllskyTeam/allsky/master/html/documentation/index.html) for installation instructions.
